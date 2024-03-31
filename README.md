@@ -1,6 +1,6 @@
 # exactly.py
 ## Faiber Andres Calambas Carvajal:
-Please free to lock at my work in my github Account :smirk:. 
+Please free to look at my work in my github Account :smirk:. 
 ## Attending bootcam 
 getting the opportunity to get qualification as Software Engineering 
 ## How
